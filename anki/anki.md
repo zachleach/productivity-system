@@ -11,7 +11,7 @@ The most efficient use of time is to not spend it on things that don't actually 
 
 The reason I do '7-day good' is because I'll likely end up reviewing the concepts in the notes again during assignments, projects, lecture, etc. In other words, any smaller interval is often a redundant waste of time.
 
-Moreover, if I've completely forgotten a note 7-days later, then the concept in the note probably never came up again naturally on its own. If that's case, the note might not be as important or as worth remembering as I initially thought when creating it.
+Moreover, if I've completely forgotten a note 7-days later, then the concept in the note probably never came up again naturally on its own. If that's the case, the note might not be as important or as worth remembering as I initially thought when creating it.
 
 __That last point is really important.__ Anyone who has done Anki before in earnest has experienced the situation where you're spending more time doing *reviewing* than *actually learning*. It fucking sucks.
 
@@ -26,11 +26,13 @@ While I'm reading, doing assignments, listening to lecture, etc, I keep note of 
 Here's small snippet of an 'important list' I made while working on a web-development course. 
 
 ```md
+```md
 >    html table syntax at a high level
 >    statement to import state hooks in react
 >    how to get root element from index.html react
 >    how to get index of the max value in an integer array in js
 ...
+```
 ```
 
 After N amount of hours have passed and mental fatigue has accumulated to the point where it's starting to hard to continue working, end the session by going through your important list and answering all the questions.
@@ -90,5 +92,3 @@ courseinfo (pt. 2) project
 	refactoring components into separate modules
 ```
 ```
-
-
