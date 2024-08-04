@@ -30,7 +30,6 @@ Here's small snippet of an 'important list' I made while working on a web-develo
 >    statement to import state hooks in react
 >    how to get root element from index.html react
 >    how to get index of the max value in an integer array in js
-...
 ```
 
 After N amount of hours have passed and mental fatigue has accumulated to the point where it's starting to hard to continue working, end the session by going through your important list and answering all the questions.
@@ -52,8 +51,6 @@ document.getElementById('root')
 
 >    how to get index of the max value in an integer array in js
 arr.indexOf(Math.max(...arr))
-
-...
 ```
 
 Finally, manually copy paste each into Anki.
