@@ -26,7 +26,7 @@ While I'm reading, doing assignments, listening to lecture, etc, I keep note of 
 Here's small snippet of an 'important list' I made while working on a web-development course. 
 
 ```md
-```md
+```
 >    html table syntax at a high level
 >    statement to import state hooks in react
 >    how to get root element from index.html react
@@ -57,7 +57,6 @@ document.getElementById('root')
 arr.indexOf(Math.max(...arr))
 
 ...
-```
 ```
 
 Finally, manually copy paste each into Anki.
