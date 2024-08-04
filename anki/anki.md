@@ -26,19 +26,16 @@ While I'm reading, doing assignments, listening to lecture, etc, I keep note of 
 Here's small snippet of an 'important list' I made while working on a web-development course. 
 
 ```
-```md
 >    html table syntax at a high level
 >    statement to import state hooks in react
 >    how to get root element from index.html react
 >    how to get index of the max value in an integer array in js
 ...
 ```
-```
 
 After N amount of hours have passed and mental fatigue has accumulated to the point where it's starting to hard to continue working, end the session by going through your important list and answering all the questions.
 
 ```
-```md
 >    html table syntax at a high level
 <table>
     <tr>
@@ -58,7 +55,6 @@ arr.indexOf(Math.max(...arr))
 
 ...
 ```
-```
 
 Finally, manually copy paste each into Anki.
 
@@ -71,7 +67,6 @@ I keep note of higher-level, more abstract, concepts in a text file separate fro
 Below is an example of a list of the important broader concepts I made while working on projects within a web development course.  
 
 ```md
-```
 courseinfo project
 	spin up a basic react project
 	functional components
@@ -90,5 +85,4 @@ courseinfo (pt. 2) project
 	array#map()
 	array#reduce()
 	refactoring components into separate modules
-```
 ```
