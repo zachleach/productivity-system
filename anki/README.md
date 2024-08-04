@@ -83,3 +83,5 @@ courseinfo (pt. 2) project
 	array#reduce()
 	refactoring components into separate modules
 ```
+
+Functionally, this serves no other purpose than the personal satisfaction of being able to to look back at the end of the month and see what you've done. I could think of several use-cases for it, but that's outside the scope of this mini-tutorial.
