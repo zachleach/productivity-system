@@ -5,19 +5,13 @@
 ![Display Order](./display_order.png)
 ![Advanced](./advanced.png)
 
-## 7-Day Good Interval
+---
 
-The most efficient use of time is to not spend it on things that don't actually matter.
+## Why '7-day' good interval
 
-The reason I do '7-day good' is because I'll likely end up reviewing the concepts in the notes again during assignments, projects, lecture, etc. In other words, any smaller interval is often a redundant waste of time.
-
-Moreover, if I've completely forgotten a note 7-days later, then the concept in the note probably never came up again naturally on its own. If that's the case, the note might not be as important or as worth remembering as I initially thought when creating it.
-
-__That last point is really important.__ Anyone who has done Anki before in earnest has experienced the situation where you're spending more time doing *reviewing* than *actually learning*. It fucking sucks.
-
-Consider this schedule as a 2-week trial period for notes. You review the note the next day, then a week later, then another week later. After 2 weeks pass, hopefully you will have learned a lot more and are in a better position to decide whether a given note is worth having, and can more confidently delete notes that aren't.
-
-If the natural state is to forget things, why fight against that when you could use it to your advantage instead? 
+1.	In problem solving subjects, you often implicitly review the concepts several times during assignments, projects, lecture, etc., so adding an additional reviews in Anki on top of that via shorter intervals (e.g., "10m 1d 3d") is a waste of time.
+2.	Increased interval lets you decide whether a note is worth keeping or deleting. Deleting bad notes will save you from review fatigue.
+3.	Selecting `Hard` during the learning phase will schedule it 4-days later. (In case you're afraid you will forget before 7-days). 
 
 ## How I use this schedule
 
